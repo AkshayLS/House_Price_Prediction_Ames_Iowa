@@ -72,6 +72,9 @@ Akshay Shettigar
     - [A study on Regression applied to the Ames dataset](https://www.kaggle.com/code/juliencs/a-study-on-regression-applied-to-the-ames-dataset)
     - [Beginners_Prediction_Top3%](https://www.kaggle.com/code/marto24/beginners-prediction-top3)
     - [A Detailed Regression Guide with House-pricing](https://www.kaggle.com/code/masumrumi/a-detailed-regression-guide-with-house-pricing)
-2.  For Deployment :
+2.  For Data Science Lifecycle :
+    - [Krish Naik - Exploratory Data Analysis Playlist](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
+    - [Datamites - CDS Course](https://datamites.com/data-science-training/certified-data-scientist/)
+3.  For Deployment :
     - [Data Professor Boston House Price Prediction Web App](https://www.youtube.com/watch?v=z5HfbXORZsg)
     - [Machine Learning Model Deployment Using Streamlit](https://www.youtube.com/watch?v=jL2ZRkSopBg)
