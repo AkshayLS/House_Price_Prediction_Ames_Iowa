@@ -19,7 +19,7 @@ st.write('---')
 st.write('### Description of some Features in the Dataset')
 st.write('This dataset actually contains 79 explanatory variables but we will be using only the top 10 features which'
          ' affect the target variable(SalePrice). You can get more information about the top 10 features by checking out my'
-         ' github repository([AkshayLS](https://github.com/AkshayLS)).'
+         ' github repository([House_Price_Prediction_Ames_Iowa](https://github.com/AkshayLS/House_Price_Prediction_Ames_Iowa)).'
          ' The features we will be using are as follows: ')
 st.write('**GrLivArea** - Above grade (ground) living area square feet')
 st.write('**OverallQual** - Rates the overall material and finish of the house')
