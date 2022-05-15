@@ -53,7 +53,7 @@ Taking logs means that errors in predicting expensive houses and cheap houses wi
 
 # Web App
 I have built a streamlit web app to predict the sale price using only the top 10 features from our final model.
-It can be found here https://share.streamlit.io/akshayls/house_price_prediction_ames_iowa/main/HPwebapp.py
+It can be found [here](https://share.streamlit.io/akshayls/house_price_prediction_ames_iowa/main/HPwebapp.py).
 Steps to run this app in local machine :
 
 ```
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ```
 then
 ```
-streamlit run streamlit_app.py
+streamlit run HPwebapp.py
 ```
 
 # Contributers
